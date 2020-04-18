@@ -1,4 +1,4 @@
-module github.com/heroku/go-getting-started
+module git.heroku.com/go-requestor
 
 go 1.12
 
