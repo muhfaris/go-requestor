@@ -1,4 +1,4 @@
-module git.heroku.com/go-requestor
+module github.com/muhfaris/go-requestor
 
 go 1.12
 

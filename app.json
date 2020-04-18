@@ -2,10 +2,7 @@
   "name": "Start on Heroku: Go",
   "description": "Go Getting Started Example App",
   "keywords": [
-    "getting-started",
     "go",
-    "sample",
-    "example"
   ],
   "website": "https://git.heroku.com/go-requestor",
   "repository": "https://git.heroku.com/go-requestor"
